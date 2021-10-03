@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realsarius
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java, front-end, unity & c#
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: tehadro@protonmail.com
 
