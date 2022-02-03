@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: tehadro@protonmail.com
+- 📫 How to reach me: berkansozer@protonmail.com
 
 <!---
 realsarius/realsarius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
