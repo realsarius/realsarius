@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: berkansozer@protonmail.com
 
-Don't forget to check out: https://realsarius.github.io/
+Don't forget to check out: [Website](https://realsarius.github.io/) and [CodePen](https://codepen.io/realsarius/)
 
 <!---
 realsarius/realsarius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
