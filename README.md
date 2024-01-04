@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently doing [The Odin Project](https://www.theodinproject.com/)(On hold at React section) & [Scrimba](https://scrimba.com/learn/frontend)(Done)
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: berkansozer@protonmail.com
+<!-- - 📫 How to reach me: berkansozer@protonmail.com -->
 
 Don't forget to check out: [Website](https://realsarius.github.io/) and [CodePen](https://codepen.io/realsarius/)
 
