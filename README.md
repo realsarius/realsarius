@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realsarius
 - 👀 I’m interested in web development
-- 🌱 I’m currently doing [The Odin Project](https://www.theodinproject.com/)(On hold at React section) & [Scrimba](https://scrimba.com/learn/frontend)(Done)
+- 🌱 I’m currently doing [Angela Yu's 100 Days of Code](https://www.udemy.com/course/100-days-of-code/)
 - 💞️ I’m looking to collaborate on anything
 <!-- - 📫 How to reach me: berkansozer@protonmail.com -->
 
